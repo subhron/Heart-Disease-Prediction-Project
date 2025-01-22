@@ -3,8 +3,7 @@
 The dashboard focus on analyzing patient data related to heart disease, with an emphasis on metrics such as cholesterol levels, blood pressure, heart rate, chest pain, and ST depression. 
 Here's an overall interpretation of the insights and patterns that can be derived from the data:
 
-**1. Patient Metrics & Heart Disease Status
-The dashboards provide critical health metrics:**
+**1. Patient Metrics & Heart Disease Status**
 
 Cholesterol Levels: Averaging between ~239 and ~261 across different groups. High cholesterol levels are a key indicator of heart disease risk.
 Heart Rate: Ranges between ~148 and ~151, which might indicate stress or underlying health issues in patients with heart disease.
